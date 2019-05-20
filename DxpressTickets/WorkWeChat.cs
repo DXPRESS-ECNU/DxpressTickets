@@ -17,7 +17,7 @@ namespace DxpressTickets
             throw new NotImplementedException();
         }
 
-        public void GetTicket(GetTicket getTicket)
+        public void GetTicket(Ticket getTicket)
         {
             throw new NotImplementedException();
         }
